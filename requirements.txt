@@ -1,0 +1,11 @@
+aiohttp
+httpx
+requests
+selenium
+beautifulsoup4
+pandas
+tqdm
+fake-useragent
+python-dotenv
+playwright
+webdriver-manager
