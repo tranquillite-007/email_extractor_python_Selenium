@@ -66,6 +66,7 @@ email_extractor/
 ├── email_extractor.py       # Main script
 ├── email_extractor.db       # SQLite database (auto-generated)
 ├── output.csv               # Final output of scraped emails
+├── input.csv
 ├── README.md
 └── requirements.txt
 ```
